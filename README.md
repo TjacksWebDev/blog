@@ -22,3 +22,34 @@ If you're thinking about a career in tech, I highly recommend checking out Coder
 </div>
 
 _____________________________________________________________________________________________________________________________________________________________________________
+**Week 2 of Coders Campus Bootcamp
+____________________________________________________________________________________________________________________________________________________________________________
+Java Objects: A Challenge and a Triumph**
+____________________________________________________________________________________________________________________________________________________________________________
+I'm so excited to be halfway through my second week of Coders Campus Bootcamp! 
+This week, we learned about Java objects, which are the building blocks of all Java programs. 
+I found this topic to be challenging at first, but I eventually got the hang of it.
+
+One of the challenges I faced was understanding how to create and use methods in Java objects. 
+I had never worked with methods before, so it took me some time to wrap my head around them. 
+But with the help of my instructor and my classmates, I was able to overcome this challenge.
+
+Another challenge I faced was understanding how to inherit from Java objects. 
+Inheritance is a way to reuse code, and it can make your code more efficient and easier to maintain. 
+I was initially confused about how inheritance worked, but I eventually understood it after working through some practice problems.
+
+Overall, I'm really glad that I took the time to learn about Java objects. 
+This is a fundamental concept in Java programming, and it's essential for understanding how Java programs work. 
+I'm confident that this knowledge will help me as I continue my journey to become a Java developer.
+
+I'm also proud of myself for overcoming the challenges I faced this week. It wasn't easy, but I persevered and I learned a lot. 
+I'm excited to see what I can learn in the coming weeks!
+
+**Check back each week for my next update on my bootcamp journey!**
+
+If you're thinking about a career in tech, I highly recommend checking out Coders Campus. They have a great curriculum and a supportive community.
+
+#java #object-oriented-programming #programming #developer #tech #startup #innovation
+#womenintech #girlswhocode #diversityintech
+#coderlife #bootcamplife #learningjourney #codingbootcamp
+![image](https://github.com/TjacksWebDev/blog/assets/143833425/526c3437-1d8e-4d5b-8d5a-da35d1f1437f)
