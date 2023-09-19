@@ -5,6 +5,7 @@ _____________________________________________________________
 #Week 1 @ Coders Campus Bootcamp<br/><br/>
 ________________________________________________________________
 1 week down, 23 to go!<br/><br/>
+I'm Ty, a coding bootcamp student at Coders Campus.
 I'm so excited to be finished with my first week at Coders Campus Bootcamp. This week, I got to review some of my prior knowledge on HTML and CSS, the building blocks of the web. I had learned this information on my own, but having the review helped me to put all those building blocks together into a cohesive project for the first time. I learned about HTML tags, CSS classes, and how to create basic layouts and styles. I also completed my first assignment, which was to create a simple website.(See my assignment in picture.) 😍<br/><br/>
 
 I'm feeling challenged but motivated, and I'm excited to learn more about Java in the coming weeks.
