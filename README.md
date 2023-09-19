@@ -53,3 +53,33 @@ If you're thinking about a career in tech, I highly recommend checking out Coder
 #womenintech #girlswhocode #diversityintech
 #coderlife #bootcamplife #learningjourney #codingbootcamp
 ![image](https://github.com/TjacksWebDev/blog/assets/143833425/526c3437-1d8e-4d5b-8d5a-da35d1f1437f)
+
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+## Week 2 Done- Coders Campus Bootcamp Journey Update: Feeling Sick But Staying Motivated
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+I'm Ty, a coding bootcamp student at Coders Campus. I'm currently in week 3 of 24 weeks, and I wanted to share a quick update on my journey so far.
+
+This past week was a bit of a low productivity week for me, as I came down with a nasty cold. I was still able to lightly watch some code tutorials, but I didn't have the energy to do much coding myself.
+
+One thing I did do this week was resubmit my first assignment, after fixing the sources for my images to relative paths instead of absolute paths. This was a small change, but it's important to learn good coding practices early on.
+
+I'm feeling a bit better now, and I'm excited to get back to coding this week. I'm really enjoying the bootcamp so far, and I'm learning a lot.
+
+Here are some tips that I've found helpful for staying motivated when learning to code:
+
+* Set realistic goals for yourself. Don't try to learn everything at once.
+* Break down large tasks into smaller, more manageable ones.
+* Take breaks when you need them. Don't try to force yourself to code when you're not feeling up to it.
+* Find a coding buddy or community to support you.
+* Celebrate your successes, no matter how small they may seem.
+
+I'm confident that I can catch up on the work that I missed this week, and I'm excited to continue my coding journey. I'll keep you updated on my progress!
+
+### Additional notes:
+
+* In the next week, I plan to focus on learning more about JAVA. I also want to start working on some of my own coding projects.
+* I'm also going to try to get more involved in the Coders Campus community. I've heard that there are some great online and in-person events that I can attend.
+* I'm really enjoying the bootcamp so far, and I'm excited to see what the next 22 weeks bring!
