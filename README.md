@@ -84,3 +84,26 @@ I'm confident that I can catch up on the work that I missed this week, and I'm e
 * In the next week, I plan to focus on learning more about JAVA. I also want to start working on some of my own coding projects.
 * I'm also going to try to get more involved in the Coders Campus community. I've heard that there are some great online and in-person events that I can attend.
 * I'm really enjoying the bootcamp so far, and I'm excited to see what the next 22 weeks bring!
+______________________________________________________________________________________________________________________________________________________________________
+
+## Week 3 of Coders Campus Bootcamp: Recovering from Sickness and Completing the Higher/Lower Guessing Game
+
+This week at Coders Campus Bootcamp was a bit challenging, as I was still recovering from the cold that I caught last week. However, I was determined to stay on track, so I made an effort to watch some of the video lessons that I had missed. I also started working on my Higher/Lower Guessing Game assignment.
+
+The Higher/Lower Guessing Game is a classic game where the player tries to guess a number between 1 and 100. The game gives the player feedback by telling them whether their guess is too high or too low. The player has 5 guesses to try to guess the correct number.
+
+I found the Higher/Lower Guessing Game assignment to be a bit challenging, but also very rewarding. I learned a lot about Java concepts such as loops, conditional statements, and random number generation. I also learned how to write more efficient and readable code.
+
+In the end, I was able to complete the Higher/Lower Guessing Game assignment ahead of schedule. I'm really proud of myself for persevering, even when I wasn't feeling my best.
+Here is a picture of my code:
+![271347318-bee340c6-7e61-41b8-ba93-a78eb3c1da57](https://github.com/TjacksWebDev/blog/assets/143833425/e6743ee7-c5b3-4af6-8360-92a84b2cc042)
+
+
+Here are some tips that I learned from my experience this week:
+
+* It's okay to take breaks when you need them. Don't try to force yourself to learn or code when you're not feeling up to it.
+* Don't be afraid to ask for help. Your instructors and classmates are there to support you.
+* Breaking down large tasks into smaller, more manageable ones can make them seem less daunting.
+* Celebrating your successes, no matter how small they may seem, can help you stay motivated.
+
+I'm looking forward to the next week of Coders Campus Bootcamp. I'm excited to learn more about Java and to start working on more challenging projects.
