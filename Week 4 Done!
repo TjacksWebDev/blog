@@ -1,0 +1,50 @@
+## Week 4 of Coder's Campus Bootcamp: Core Java and File I/O
+
+### Summary of what I learned
+
+Week 4 of Coder's Campus Bootcamp was a busy one, but I learned a lot! I covered a variety of core Java and file I/O concepts, including:
+
+* **Core Java:** access modifiers, static keyword, string manipulation, getters and setters, POJOs, services, arrays, string helpers, for each loop, exceptions
+* **File I/O:** reading and writing data to files
+
+### How I can use these skills once I am working as a full-time software engineer
+
+All of the skills that I learned in Week 4 are essential for software engineers. Here are a few specific examples of how I can use these skills in my future career:
+
+* **Core Java:**
+    * Access modifiers: I can use access modifiers to control who can access my code. This is important for security and maintainability.
+    * Static keyword: I can use the static keyword to declare static variables, methods, and classes. This can help to improve the performance and readability of my code.
+    * String manipulation: I can use my knowledge of string manipulation to create, modify, and parse strings. This is a common task in many software applications.
+    * Getters and setters: I can use getters and setters to get and set the values of private fields. This helps to encapsulate my code and make it more maintainable.
+    * POJOs: I can use POJOs to represent data models. POJOs are simple and easy to use, and they are supported by many popular frameworks and libraries.
+    * Services: I can use services to provide specific functionality. This can help to make my code more modular and reusable.
+    * Arrays: I can use arrays to store collections of items. Arrays are efficient and easy to use, and they are supported by all major programming languages.
+    * String helpers: I can use string helpers to perform common string manipulation tasks. String helpers can save me time and effort, and they can help to make my code more readable.
+    * For each loops: I can use for each loops to iterate over collections of items. For each loops are concise and easy to read, and they are supported by all major programming languages.
+    * Exceptions: I can handle exceptions to prevent unexpected errors from crashing my program. Exception handling is an important part of any software application.
+* **File I/O:** I can use file I/O to read and write data to files. This is important for many software applications, such as web applications, desktop applications, and mobile applications.
+
+### How I can use these skills to provide value to a tech company looking to hire me
+
+I can use my skills in core Java and file I/O to provide value to a tech company looking to hire me in a variety of ways. For example, I can:
+
+* Develop web applications that use databases to store and retrieve data
+* Develop desktop applications that use files to store and retrieve data
+* Develop mobile applications that use files to store and retrieve data
+* Develop services that provide specific functionality, such as a user login service or a file upload service
+* Write unit tests and integration tests for software applications
+
+### Fun Java projects I built during my free time
+
+During my free time, I built some fun Java projects to stay engaged. These projects included:
+
+* Minesweeper
+* Tic-tac-toe
+* Snake
+* Brick breaker
+
+These projects helped me to practice my Java skills and to learn more about different aspects of Java programming, such as game development and graphics.
+
+### Conclusion
+
+I am grateful for the opportunity to learn from Coder's Campus Bootcamp. I have learned a lot in the past four weeks, and I am excited to continue learning and growing as a software engineer. I am confident that I can use my skills in core Java and file I/O to provide value to a tech company looking to hire me.
