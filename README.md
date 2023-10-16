@@ -177,9 +177,9 @@ These projects helped me to practice my Java skills and to learn more about diff
 
 I am grateful for the opportunity to learn from Coder's Campus Bootcamp. I have learned a lot in the past four weeks, and I am excited to continue learning and growing as a software engineer. I am confident that I can use my skills in core Java and file I/O to provide value to a tech company looking to hire me.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-**Motivational and Inspiring Blog Post**
-
-**What I've Learned in My First Month of Coder's Campus BootCamp**
+##Week 5- My 1st Month of Coding Bootcamp
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+##What I've Learned in My First Month of Coder's Campus BootCamp
 
 I'm excited to share my journey through the Coder's Campus BootCamp so far! I started on September 5, 2023, and I'm currently on track to finish in 6 months or less. This is much faster than the typical 9-month timeframe, but I'm motivated to learn as much as I can as quickly as possible.
 
