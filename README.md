@@ -210,8 +210,8 @@ I'm grateful for the opportunity to learn from the experienced instructors at Co
 If you're considering a career in software engineering, I encourage you to go for it! It's a challenging but rewarding field. There are many resources available to help you learn, including bootcamps, online courses, and books. Don't be afraid to ask for help from others. The software engineering community is very welcoming and supportive.
 
 Remember, the first step is always the hardest. But once you take that step, you'll be on your way to a bright future in software engineering.
-============================================================================================================================================================================
 ## Weeks 6-8 of My Journey Through Coder's Campus 24 Week Bootcamp
+============================================================================================================================
 
 In weeks 6-8 of Coder's Campus 24 week bootcamp, I learned about the following topics:
 
@@ -257,4 +257,4 @@ I could use sorting to arrange a collection of elements in a specific order. Thi
 I could use regular expressions to search for and manipulate patterns in text. This could be useful for tasks such as validating input, extracting data from text, and searching for specific patterns in text.
 
 I could use collections to store and organize data in a variety of ways
-========================================================================================================================================================================
+============================================================================================================================
