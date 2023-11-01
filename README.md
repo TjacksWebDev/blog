@@ -210,3 +210,51 @@ I'm grateful for the opportunity to learn from the experienced instructors at Co
 If you're considering a career in software engineering, I encourage you to go for it! It's a challenging but rewarding field. There are many resources available to help you learn, including bootcamps, online courses, and books. Don't be afraid to ask for help from others. The software engineering community is very welcoming and supportive.
 
 Remember, the first step is always the hardest. But once you take that step, you'll be on your way to a bright future in software engineering.
+============================================================================================================================================================================
+## Weeks 6-8 of My Journey Through Coder's Campus 24 Week Bootcamp
+
+In weeks 6-8 of Coder's Campus 24 week bootcamp, I learned about the following topics:
+
+* **More important object concepts:** interfaces, abstract classes and methods, sorting (Comparator and Comparable), and regular expressions (RegEx)
+* **Collections and Java 8:** lists, sets, HashMaps, lambdas, streams, and the .collect() method
+* **Java 8 continued:** Optional and default keywords, enums, dates and times, the Calendar class, java.util.Date vs java.util.LocalDate, and java.util.Time vs java.util.LocalTime
+
+**Interfaces** can be used to define a set of methods that a class must implement. This can be useful for ensuring that all classes that implement a particular interface have the same functionality. For example, if you have an interface called `Sortable`, you can use it to define the methods that a class must implement in order to be sorted.
+
+**Abstract classes** are classes that cannot be instantiated directly and must be extended by other classes. This can be useful for defining common functionality that can be shared by multiple classes. For example, you could have an abstract class called `Vehicle` that defines the common functionality of all vehicles, such as the ability to accelerate, decelerate, and turn.
+
+**Sorting** is the process of arranging a collection of elements in a specific order. The Comparator and Comparable interfaces are used to specify the sorting order. The Comparator interface allows you to define a custom sorting order, while the Comparable interface allows you to define a natural sorting order for a class.
+
+**Regular expressions** (RegEx) are a programming language that is used to search for and manipulate patterns in text. RegEx can be used to perform a variety of tasks, such as validating input, extracting data from text, and searching for specific patterns in text.
+
+**Collections** are data structures that store a collection of elements. Java provides a variety of collections, such as lists, sets, and maps. Collections can be used to store and organize data in a variety of ways. For example, you could use a list to store a list of students in a class, or you could use a map to store a list of key-value pairs.
+
+**Java 8** introduced a number of new features for working with collections, including lambdas, streams, and the .collect() method. Lambdas are functions that can be passed as parameters to other functions. Streams are a way to process collections of data in a declarative way. The .collect() method allows you to collect the results of a stream into a collection.
+
+**The Optional keyword** allows you to represent a value that may or may not be present. This can be useful for avoiding null pointer exceptions.
+
+**The default keyword** can be used to provide a default implementation for an interface method. This can be useful for reducing the amount of code that you need to write.
+
+**Enums** are a type of class that can be used to represent a fixed set of constants. Enums can be used to represent a variety of things, such as the days of the week, the months of the year, or the different types of vehicles.
+
+**Dates and times** are represented in Java using the Date, LocalDate, LocalTime, and Calendar classes.
+
+* java.util.Date represents a point in time in milliseconds since the Unix epoch.
+* java.util.LocalDate represents a date without a time.
+* java.util.LocalTime represents a time without a date.
+* java.util.Calendar is a class that represents a calendar system.
+
+**How I can use what I learned for future companies**
+
+All of the topics that I learned in weeks 6-8 are invaluable for software developers. Interfaces, abstract classes, sorting, regular expressions, collections, Java 8, Optionals, defaults, enums, and dates and times are all used extensively in software development.
+
+For example, I could use interfaces to define a set of methods that a class must implement in order to be compatible with my code. This would allow me to write code that is more modular and reusable.
+
+I could use abstract classes to define common functionality that can be shared by multiple classes. This would reduce the amount of code that I need to write and would make my code more maintainable.
+
+I could use sorting to arrange a collection of elements in a specific order. This could be useful for performing tasks such as sorting a list of students in a class or sorting a list of products in an online store.
+
+I could use regular expressions to search for and manipulate patterns in text. This could be useful for tasks such as validating input, extracting data from text, and searching for specific patterns in text.
+
+I could use collections to store and organize data in a variety of ways
+========================================================================================================================================================================
