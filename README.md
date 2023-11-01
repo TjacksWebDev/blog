@@ -211,8 +211,7 @@ If you're considering a career in software engineering, I encourage you to go fo
 
 Remember, the first step is always the hardest. But once you take that step, you'll be on your way to a bright future in software engineering.
 ## Weeks 6-8 of My Journey Through Coder's Campus 24 Week Bootcamp
-============================================================================================================================
-
+====================================================================================================
 In weeks 6-8 of Coder's Campus 24 week bootcamp, I learned about the following topics:
 
 * **More important object concepts:** interfaces, abstract classes and methods, sorting (Comparator and Comparable), and regular expressions (RegEx)
